@@ -27,3 +27,5 @@ fields:
   default: "#BE8B60"
   hidden: true
   description: <a href="" title="" target="_blank"><strong><em>Sey</em></strong></a>
+pages:
+- _posts/Sign up.md
