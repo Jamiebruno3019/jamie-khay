@@ -4,15 +4,24 @@ auto_deploy: true
 admin_path: C:\Users\jay khay\Desktop\Jamie
 webhook_url: 
 sections:
+- type: directory
+  path: C:\Users\jay khay\Desktop\Jamie
+  label: Side Out
+  create: all
+  match: "**/*"
+  new_doc_ext: mode.md
+  templates:
+  - 2-column-media-element
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
   read_only: true
 - type: jekyll-posts
   label: Posts
-  create: all
+  create: documents
   new_doc_ext: MODE
   templates:
+  - full-width-media-element
   - hero-banner-w-image
 - type: directory
   path: ''
