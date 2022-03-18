@@ -11,6 +11,9 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  new_doc_ext: MODE
+  templates:
+  - hero-banner-w-image
 - type: directory
   path: ''
   label: Pages
@@ -18,9 +21,11 @@ sections:
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
+  templates:
+  - signup-bar
 - type: document
   path: _config.yml
-  label: Config
+  label: Side out
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
