@@ -18,3 +18,12 @@ fields:
   name: email_recipient
   label: Email Recipient
   description: Form submissions will be sent to this email address.
+- name: Sey
+  type: color
+  label: Run
+  config:
+    required: true
+    color_format: Hex
+  default: "#BE8B60"
+  hidden: true
+  description: <a href="" title="" target="_blank"><strong><em>Sey</em></strong></a>
