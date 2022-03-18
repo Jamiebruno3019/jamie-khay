@@ -15,3 +15,15 @@ defaults:
 plugins:
 - jekyll-feed
 - jekyll-menus
+block: hero-2
+background_image: C:\Users\jay khay\Desktop\Jamie/C:\Users\jay khay\Desktop\Jamie/C:\Users\jay
+  khay\Desktop\Jamie/david-pisnoy-ujugbnemp7o-unsplash.jpg
+image:
+  image: ''
+  alt_text: ''
+headline: ''
+content: ''
+cta:
+  enabled: false
+  url: ''
+  button_text: ''
