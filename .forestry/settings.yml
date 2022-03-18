@@ -28,8 +28,8 @@ sections:
   label: Side out
 upload_dir: C:\Users\jay khay\Desktop\Jamie
 public_path: C:\Users\jay khay\Desktop\Jamie
-front_matter_path: ''
-use_front_matter_path: false
+front_matter_path: C:\Users\jay khay\Desktop\Jamie
+use_front_matter_path: true
 file_template: 'C:\Users\jay khay\Desktop\Jamie/:filename:'
 build:
   preview_env:
