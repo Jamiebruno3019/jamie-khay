@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: C:\Users\jay khay\Desktop\Jamie
-webhook_url: 
+webhook_url: jamiekhay@gmail.com
 sections:
 - type: directory
   path: C:\Users\jay khay\Desktop\Jamie
